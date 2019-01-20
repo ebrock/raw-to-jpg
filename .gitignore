@@ -1,0 +1,5 @@
+*.jpg
+*.png
+*.cr2
+*.pyc
+.env
